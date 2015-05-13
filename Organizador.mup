@@ -1,0 +1,33 @@
+{
+  "title": "Organizador",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "3",
+      "id": 6
+    },
+    "2": {
+      "title": "5",
+      "id": 9,
+      "ideas": {
+        "1": {
+          "title": "Ejercicio",
+          "id": 10
+        },
+        "2": {
+          "title": "Guitarra",
+          "id": 11
+        },
+        "3": {
+          "title": "Fotografía",
+          "id": 12
+        }
+      }
+    },
+    "-1": {
+      "title": "1",
+      "id": 8
+    }
+  }
+}
