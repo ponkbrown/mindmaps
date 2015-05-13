@@ -33,7 +33,26 @@
       "ideas": {
         "1": {
           "title": "Ejercicio",
-          "id": 10
+          "id": 10,
+          "ideas": {
+            "1": {
+              "title": "Skateboarding",
+              "id": 18
+            },
+            "2": {
+              "title": "Basketball",
+              "id": 19
+            },
+            "3": {
+              "title": "Hicking",
+              "id": 20,
+              "ideas": {}
+            },
+            "4": {
+              "title": "Diario",
+              "id": 23
+            }
+          }
         },
         "2": {
           "title": "Guitarra",
