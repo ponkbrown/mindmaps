@@ -52,6 +52,10 @@
               "title": "Diario",
               "id": 23
             }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {}
           }
         },
         "2": {
@@ -84,8 +88,17 @@
             }
           },
           "attr": {
-            "style": {}
+            "style": {},
+            "collapsed": true
           }
+        },
+        "1.5": {
+          "title": "Electronica",
+          "id": 25
+        },
+        "1.25": {
+          "title": "Tecnologia",
+          "id": 27
         }
       },
       "attr": {
@@ -96,7 +109,8 @@
         ],
         "style": {
           "background": "#99cc00"
-        }
+        },
+        "collapsed": true
       }
     }
   },
@@ -104,7 +118,8 @@
     "storyboards": [
       "Storyboard 1"
     ],
-    "style": {}
+    "style": {},
+    "collapsed": true
   },
   "links": []
 }
