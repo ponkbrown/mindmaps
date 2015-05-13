@@ -3,11 +3,31 @@
   "id": 1,
   "formatVersion": 2,
   "ideas": {
-    "1": {
-      "title": "3",
-      "id": 6
+    "10": {
+      "title": "1",
+      "id": 8,
+      "ideas": {},
+      "attr": {
+        "style": {
+          "background": "#800000"
+        }
+      }
     },
-    "2": {
+    "-0.5": {
+      "title": "3",
+      "id": 6,
+      "attr": {
+        "position": [
+          78,
+          -75,
+          1
+        ],
+        "style": {
+          "background": "#ffcc00"
+        }
+      }
+    },
+    "-11": {
       "title": "5",
       "id": 9,
       "ideas": {
@@ -17,17 +37,55 @@
         },
         "2": {
           "title": "Guitarra",
-          "id": 11
+          "id": 11,
+          "attr": {
+            "style": {}
+          }
         },
         "3": {
           "title": "Fotografía",
-          "id": 12
+          "id": 12,
+          "ideas": {
+            "1": {
+              "title": "Proyecto Monobichi",
+              "id": 13,
+              "ideas": {}
+            },
+            "2": {
+              "title": "Blog entrada",
+              "id": 15,
+              "attr": {
+                "style": {}
+              },
+              "ideas": {}
+            },
+            "3": {
+              "title": "Foto Entrada",
+              "id": 17
+            }
+          },
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "attr": {
+        "position": [
+          82,
+          106,
+          2
+        ],
+        "style": {
+          "background": "#99cc00"
         }
       }
-    },
-    "-1": {
-      "title": "1",
-      "id": 8
     }
-  }
+  },
+  "attr": {
+    "storyboards": [
+      "Storyboard 1"
+    ],
+    "style": {}
+  },
+  "links": []
 }
