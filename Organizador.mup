@@ -3,15 +3,9 @@
   "id": 1,
   "formatVersion": 2,
   "ideas": {
-    "10": {
-      "title": "1",
-      "id": 8,
-      "ideas": {},
-      "attr": {
-        "style": {
-          "background": "#800000"
-        }
-      }
+    "1": {
+      "title": "Inventario",
+      "id": 45
     },
     "-0.5": {
       "title": "3",
@@ -66,7 +60,7 @@
           }
         },
         "3": {
-          "title": "Fotografía",
+          "title": "FotografÃ­a",
           "id": 12,
           "ideas": {
             "1": {
@@ -88,8 +82,7 @@
             }
           },
           "attr": {
-            "style": {},
-            "collapsed": true
+            "style": {}
           }
         },
         "1.5": {
@@ -112,14 +105,23 @@
         },
         "collapsed": true
       }
+    },
+    "-0.25": {
+      "title": "1",
+      "id": 8,
+      "ideas": {},
+      "attr": {
+        "style": {
+          "background": "#800000"
+        }
+      }
     }
   },
   "attr": {
     "storyboards": [
       "Storyboard 1"
     ],
-    "style": {},
-    "collapsed": true
+    "style": {}
   },
   "links": []
 }
