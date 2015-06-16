@@ -12,6 +12,32 @@
         }
       }
     },
+    "2": {
+      "title": "Habitos(5)",
+      "id": 59,
+      "ideas": {
+        "1": {
+          "title": "1- Cuerpo",
+          "id": 61
+        },
+        "2": {
+          "title": "2-Mente",
+          "id": 62
+        },
+        "3": {
+          "title": "3-Relaciones",
+          "id": 64
+        },
+        "4": {
+          "title": "4-Finanzas",
+          "id": 66
+        },
+        "5": {
+          "title": "5-Comunicación",
+          "id": 67
+        }
+      }
+    },
     "-0.5": {
       "title": "3",
       "id": 6,
@@ -27,7 +53,7 @@
       }
     },
     "-11": {
-      "title": "5",
+      "title": "5(habitos)",
       "id": 9,
       "ideas": {
         "1": {
@@ -208,13 +234,12 @@
       "attr": {
         "position": [
           108,
-          104,
+          102,
           2
         ],
         "style": {
           "background": "#99cc00"
-        },
-        "collapsed": true
+        }
       }
     },
     "-0.25": {
