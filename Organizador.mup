@@ -9,6 +9,10 @@
       "attr": {
         "style": {
           "background": "#ffffff"
+        },
+        "attachment": {
+          "contentType": "text/html",
+          "content": "<b>Inventario</b><div><b><br></b></div><div>Aquí&nbsp;debería&nbsp;de ir un sistema o un control&nbsp;demás&nbsp;o menos mis pertenencias, con&nbsp;números&nbsp;de serie en las cosas valiosas y un valor estimado.</div>"
         }
       }
     },
@@ -34,7 +38,10 @@
         },
         "5": {
           "title": "5-Comunicación",
-          "id": 67
+          "id": 67,
+          "attr": {
+            "style": {}
+          }
         }
       },
       "attr": {
@@ -42,7 +49,8 @@
           "contentType": "text/html",
           "content": "<div>Articulo sobre el poder de crear buenos habitos</div><a href=\"https://www.evernote.com/shard/s16/sh/1ddc923c-0b93-4d97-a465-b6e870e12383/48969bc3eb8dca02e3327914bc714e69\">https://www.evernote.com/shard/s16/sh/1ddc923c-0b93-4d97-a465-b6e870e12383/48969bc3eb8dca02e3327914bc714e69</a>"
         },
-        "style": {}
+        "style": {},
+        "collapsed": true
       }
     },
     "-0.5": {
@@ -90,7 +98,6 @@
                 }
               },
               "attr": {
-                "collapsed": true,
                 "style": {}
               }
             }
@@ -140,7 +147,7 @@
               }
             },
             "2": {
-              "title": "FotografÃ­a",
+              "title": "Fotografía",
               "id": 12,
               "ideas": {
                 "1": {
@@ -162,8 +169,7 @@
                 }
               },
               "attr": {
-                "style": {},
-                "collapsed": true
+                "style": {}
               }
             }
           },
@@ -186,7 +192,6 @@
                 }
               },
               "attr": {
-                "collapsed": true,
                 "style": {}
               }
             }
@@ -204,8 +209,7 @@
               "title": "Electronica",
               "id": 25,
               "attr": {
-                "style": {},
-                "collapsed": true
+                "style": {}
               },
               "ideas": {
                 "1": {
@@ -214,6 +218,14 @@
                   "attr": {
                     "style": {}
                   }
+                },
+                "2": {
+                  "title": "Arduino",
+                  "id": 74
+                },
+                "3": {
+                  "title": "Raspberry Pi",
+                  "id": 75
                 }
               }
             },
@@ -224,10 +236,44 @@
                 "1": {
                   "title": "http://www.codecademy.com/",
                   "id": 53
+                },
+                "2": {
+                  "title": "Lenguajes Para Aprende",
+                  "id": 72,
+                  "ideas": {
+                    "1": {
+                      "title": "Python",
+                      "id": 68
+                    },
+                    "2": {
+                      "title": "Flask",
+                      "id": 69,
+                      "attr": {
+                        "style": {}
+                      }
+                    },
+                    "3": {
+                      "title": "Javasript",
+                      "id": 70,
+                      "attr": {
+                        "style": {}
+                      }
+                    },
+                    "4": {
+                      "title": "Html/Css",
+                      "id": 71,
+                      "attr": {
+                        "style": {}
+                      }
+                    },
+                    "5": {
+                      "title": "Sql",
+                      "id": 73
+                    }
+                  }
                 }
               },
               "attr": {
-                "collapsed": true,
                 "style": {}
               }
             }
@@ -246,17 +292,72 @@
         ],
         "style": {
           "background": "#99cc00"
-        }
+        },
+        "collapsed": true
       }
     },
     "-0.25": {
-      "title": "1",
+      "title": "Proyectos",
       "id": 8,
-      "ideas": {},
+      "ideas": {
+        "1": {
+          "title": "NogSon",
+          "id": 77,
+          "ideas": {
+            "1": {
+              "title": "publiCambio",
+              "id": 79
+            },
+            "2": {
+              "title": "lineaFront",
+              "id": 80
+            },
+            "3": {
+              "title": "PronosticoTiempo",
+              "id": 81
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ccffff"
+            },
+            "collapsed": true
+          }
+        },
+        "2": {
+          "title": "CV online",
+          "id": 82
+        },
+        "3": {
+          "title": "Blogs",
+          "id": 83,
+          "ideas": {
+            "1": {
+              "title": "MejorasPersonal",
+              "id": 84
+            },
+            "2": {
+              "title": "Tecnologia",
+              "id": 85
+            },
+            "3": {
+              "title": "Fotografia",
+              "id": 86
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ffff99"
+            },
+            "collapsed": true
+          }
+        }
+      },
       "attr": {
         "style": {
           "background": "#800000"
-        }
+        },
+        "collapsed": true
       }
     }
   },
